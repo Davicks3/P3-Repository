@@ -1,23 +1,3 @@
-@misc{wikipedia_2020_freespace,
-  author = {Wikipedia},
-  month = {02},
-  title = {Free-space path loss},
-  url = {https://en.wikipedia.org/wiki/Free-space_path_loss},
-  year = {2020},
-  organization = {Wikipedia}
-}
-
-@misc{wikipedia_2019_inversesquare,
-  author = {Wikipedia},
-  month = {04},
-  publisher = {Wikimedia Foundation},
-  title = {Inverse-square law},
-  url = {https://en.wikipedia.org/wiki/Inverse-square_law},
-  year = {2019},
-  organization = {Wikipedia}
-}
-
-
 ---GITHUB---
 %--SPLITTER--
 @misc{Mini-ciucuits_2016_p3repositoryzfsc21w,
@@ -76,5 +56,25 @@
   urldate = {2024-12-10},
   year = {1997},
   organization = {GitHub}
+}
+
+%--WIKI--
+@misc{wikipedia_2020_freespace,
+  author = {Wikipedia},
+  month = {02},
+  title = {Free-space path loss},
+  url = {https://en.wikipedia.org/wiki/Free-space_path_loss},
+  year = {2020},
+  organization = {Wikipedia}
+}
+
+@misc{wikipedia_2019_inversesquare,
+  author = {Wikipedia},
+  month = {04},
+  publisher = {Wikimedia Foundation},
+  title = {Inverse-square law},
+  url = {https://en.wikipedia.org/wiki/Inverse-square_law},
+  year = {2019},
+  organization = {Wikipedia}
 }
 
