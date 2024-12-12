@@ -1,0 +1,80 @@
+@misc{wikipedia_2020_freespace,
+  author = {Wikipedia},
+  month = {02},
+  title = {Free-space path loss},
+  url = {https://en.wikipedia.org/wiki/Free-space_path_loss},
+  year = {2020},
+  organization = {Wikipedia}
+}
+
+@misc{wikipedia_2019_inversesquare,
+  author = {Wikipedia},
+  month = {04},
+  publisher = {Wikimedia Foundation},
+  title = {Inverse-square law},
+  url = {https://en.wikipedia.org/wiki/Inverse-square_law},
+  year = {2019},
+  organization = {Wikipedia}
+}
+
+
+---GITHUB---
+%--SPLITTER--
+@misc{Mini-ciucuits_2016_p3repositoryzfsc21w,
+  author = {Mini-ciucuits},
+  month = {07},
+  publisher = {Mini-ciucuits},
+  title = {P3-Repository/ZFSC-2-1W+ (003).pdf at 832af476a0b70243e873c4596ab776070824ee5d · Davicks3/P3-Repository},
+  url = {https://github.com/Davicks3/P3-Repository/blob/832af476a0b70243e873c4596ab776070824ee5d/ZFSC-2-1W%2B%20(003).pdf},
+  urldate = {2024-12-06},
+  year = {2016},
+  organization = {GitHub}
+}
+
+%--DETECTOR--
+@misc{Pascall_2024_p3repositoryssda,
+  author = {Pascall},
+  month = {2016},
+  publisher = {Pascall},
+  title = {P3-Repository/SSDA 7020-A21-100 (003) (1).pdf at main · Davicks3/P3-Repository},
+  url = {https://github.com/Davicks3/P3-Repository/blob/main/SSDA%207020-A21-100%20(003)%20(1).pdf},
+  urldate = {2024-12-06},
+  year = {2024},
+  organization = {GitHub}
+}
+
+%--RP-Attenuator--
+@misc{davicks3_2000_relay,
+  author = {Davicks3},
+  month = {07},
+  publisher = {JFW Indrustries},
+  title = {Relay Programmable Attenuator},
+  url = {https://github.com/Davicks3/P3-Repository/blob/main/50P-077%20(4).PDF},
+  urldate = {2024-12-10},
+  year = {2000},
+  organization = {GitHub}
+}
+
+%--ATTENUATOR-DRAWINGS--
+@misc{davicks3_2008_programmable,
+  author = {Davicks3},
+  month = {06},
+  publisher = {JFW indrustries inc},
+  title = {Programmable Attenuator Drawings},
+  url = {https://github.com/Davicks3/P3-Repository/blob/ab9d6165cba615d33c9ffe669246bf6daf76b17e/Attenuator-Drawing.pdf},
+  urldate = {2024-12-10},
+  year = {2008},
+  organization = {GitHub}
+}
+
+%--DRIVER-BOARD--
+@misc{davicks3_1997_darlington,
+  author = {Davicks3},
+  publisher = {Texas instruments incorporated},
+  title = {Darlington Transistor},
+  url = {https://github.com/Davicks3/P3-Repository/blob/ab9d6165cba615d33c9ffe669246bf6daf76b17e/uln2803a.pdf},
+  urldate = {2024-12-10},
+  year = {1997},
+  organization = {GitHub}
+}
+
